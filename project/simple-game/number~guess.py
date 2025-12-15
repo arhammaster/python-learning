@@ -1,5 +1,3 @@
-# this code picks a number from 1 too 100 you have ten moves to guess it .
-
 import random
 moves = 0
 number = (random.randint(1,100))
