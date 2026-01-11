@@ -3,12 +3,11 @@
 # 
 #
 
-a:int = 5
-b:int = 6
-c:int = 7
+array = [1,2,3,4,5,6,7,8,9,10]
 
-arr:int = [5,6,7]
+# print all
+print(array)
 
-print(arr)
-
-print(a(0))
+# print 5 element
+print(array[4])
+# we use index of 4 because array starts at 0 this why index's is 4
