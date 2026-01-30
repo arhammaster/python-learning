@@ -16,3 +16,9 @@ triangle.draw()
 square = Shape ("Square","4","4")
 square.draw()
 
+pentagon = Shape ("Pentagon","5","5")
+pentagon.draw()
+
+hexagon = Shape ("Hexagon","6","6")
+hexagon.draw()
+
