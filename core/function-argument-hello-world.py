@@ -3,8 +3,8 @@
 #  print hello "name"
 #  
 #  Example :  
-#   Enter your name : Arham
-#   Hello Arham
+#   Enter your name : Arjun
+#   Hello Arjun
 #
 def hello(name:str) :
     '''
@@ -13,7 +13,7 @@ def hello(name:str) :
     '''
     print("Hello", name)
 
-hello("Arham")
-hello("neamat")
-hello("moin")
-hello("Ajija")
+hello("Arjun")
+hello("tom")
+hello("max")
+hello("jack")

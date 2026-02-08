@@ -1,16 +1,14 @@
 # 
-#  Write a for loop with run in the range for (Moin, Ajija, Neamat, Arham) 
+#  Write a for loop with run in the range for (Max, tom, jery, tommy) 
 #  and print the house address under each name 
 # 
 #  Output : example 
 # 
-#   Moin
-#   14 Howlett Crescent
-#   Ajax, ON. L1T0A5
+#   Max
+#   16 wack str
 #
-#   Ajija
-#   14 Howlett Crescent
-#   Ajax, ON. L1T0A5
+#   tom
+#   16 wack str
 #
 #  And so on...
 #
