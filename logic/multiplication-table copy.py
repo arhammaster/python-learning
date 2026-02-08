@@ -25,5 +25,5 @@ number:int = int(input("Enter Number : "))
 if number >100 :
     print("invalid number,it should be lower then 100 ")
 else :
-    for i in range (1,11) :
+    for i in range (1,13) :
         print(number, " X ", i, " = ", number * i)

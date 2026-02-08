@@ -20,10 +20,10 @@
 #   5 X 10 = 50
 
 
-number:int = int(input("Enter number"))
+number:int = int(input("Enter number : "))
 if number >100 :
     print("invalid number,it should be lower then 100 ")
 else :
-    for i in range (1,12+1) :
+    for i in range (1,13) :
         print(number, "X", i, "=", number*i)
   
