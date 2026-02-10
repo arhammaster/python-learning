@@ -38,7 +38,7 @@ def make_move(position, symbol):
 
 
 count = 0
-isWin = False;
+isWin = False
 while count < 9:
     if count == 0 or count == 2 or count == 4 or count == 6 or count == 8:
         player1_move = int(input(f"{player1}, enter your move (0-8): "))
