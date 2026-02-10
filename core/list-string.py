@@ -1,18 +1,18 @@
 # 
-#  Define a String array with names "Moin, Ajija, Neamat, Arham"
+#  Define a String array with names "Jack, Jill, Sarah, Arjun"
 # 
 # 
 #
 #  Output: 
 #
-#  Moin
-#  Ajija
-#  Neamat
-#  Arham
+#  Jack
+#  Jill
+#  Sarah
+#  Arjun
 #
 
 # Define array
-names = ("Moin", "Ajija", "Neamat", "Arham")
+names = ("Jack", "Jill", "Sarah", "Arjun")
 
 # print array without loop
 print(names)

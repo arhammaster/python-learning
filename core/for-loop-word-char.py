@@ -2,7 +2,7 @@
 #  
 #  Input : 
 #  
-#       Enter your name : Arham
+#       Enter your name : Arjun
 #  
 #  Output :
 #  

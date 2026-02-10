@@ -11,7 +11,7 @@
 #   2000 is a leap year because it is divisible by 400, 
 #   1900 is NOT a leap year because it is only divisible by 100.
 #   2024, 2016 are a leap year because it is divisible by 4
-#   2025 is not a leap year because it is NOT divisible by 4
+#   2025 is not a leap yeArjun because it is NOT divisible by 4
 #
 # Learn:
 #   first learn math operation / and % 
