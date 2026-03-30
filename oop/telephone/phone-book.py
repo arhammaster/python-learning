@@ -21,7 +21,11 @@ class PhoneBook :
         self.persons.append(Person(name, number))
 
     def update(self, name:str, number:int , new_number:int ) :
-        self.persons.remove(name, number)
+
+        for person in self.persons :
+            if person.name == name and person.number == number :
+                self.persons.remove(person)
+                
         self.persons.append(Person(name, new_number))
 
          
