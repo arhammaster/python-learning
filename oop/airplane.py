@@ -4,14 +4,14 @@
 # [x] it should allow user to book ticket with name
 # [x] it should show how many seats are available so that user can book his / her tickets to travel
 # [x] in should allow user to cancel ticket 
-# [-] if all seats (tickets) are booked it should not allow to book more ticket and print Airplane already book 
+# [x] if all seats (tickets) are booked it should not allow to book more ticket and print Airplane already book 
 
 # Test data
 #
-# create Airplane CA(3) SA(2) BA(2)
-# demonstrate CA booking with all passenger and show "No available seats" when 4th person try to book
-# [-] demonstrate SA Airplane booking and cancel 
-# demonstrate BA booking and allow 1 seats is available 
+# [x] create Airplane CA(3) SA(2) BA(2)
+# [x] demonstrate CA booking with all passenger and show "No available seats" when 4th person try to book
+# [x] demonstrate SA Airplane booking and cancel 
+# [x] demonstrate BA booking and allow 1 seats is available 
 
 class Airplane :
 
