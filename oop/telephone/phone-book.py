@@ -16,7 +16,7 @@ class PhoneBook :
     def add(self, name:str, number:int) :
         self.persons.append(Person(name, number))
 
-    def update(self, name:str, number:int , new_number:int ) :
+    def update(self, name:str, new_number:int ) :
         person:Person = self.search(name)
         if person != None :
             self.persons.remove(person)
@@ -34,7 +34,7 @@ phone_book.add("Tom", 456456)
 print(phone_book.search("Tom"))
 
 print("After Update Tom into Phone book")
-phone_book.update("Tom", 456456, 786786)
+phone_book.update("Tom", 786786)
 print(phone_book.search("Tom"))
 
 
